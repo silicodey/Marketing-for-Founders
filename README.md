@@ -45,7 +45,7 @@ Launch platforms, software directories, and communities are an easy way to get e
 - [Hacker News](https://news.ycombinator.com/show)
 - [ProductHunt](https://www.producthunt.com/) - use this [guide](https://socialgrowthlab.notion.site/Engaging-your-network-for-a-Product-Hunt-Launch-fc37ed8746ba46ee914bc24e46d92dbd) to plan your launch
 - [SideProjectors](https://www.sideprojectors.com/)
-- [Uneed] (https://www.uneed.best/)
+- https://www.uneed.best *
 
 **Software directories:**
 - [Toolfolio](https://toolfolio.io/)
