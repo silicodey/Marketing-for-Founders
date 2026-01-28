@@ -247,11 +247,12 @@ Here are a few frameworks to get your price right:
 - [How we got our first 1,000 users by PostHog](https://posthog.com/founders/first-1000-users)
 - [Your guide to quick wins in SaaS marketing](https://www.growthunhinged.com/p/your-guide-to-quick-wins-in-saas)
 - [The Product-Market Fit Game](https://posthog.com/founders/product-market-fit-game)
+- https://wizard-ventures.notion.site/marketer-resources-list
 
 <br/><br/><br/>
 
 ## 👨‍💻 About
 This was inspired by [Marketing for Engineers](https://github.com/goabstract/Marketing-for-Engineers?tab=readme-ov-file) (thanks Lisa, Ahmed, and Edoardo Stradella). There are personal resources of mine in here as well but I am mostly boosting it for more visibility as I believe more founders need access to such tools. <br/>All resources, guides, and tools were done by independent authors and companies. All credentials are included.
 
-_**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on LinkedIn) (www.linkedin.com/in/aliuagon)
+**Do you want to recommend a resource? Or want me to cover a specific topic? [DM me on LinkedIn) (www.linkedin.com/in/aliuagon)
 
