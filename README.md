@@ -249,6 +249,9 @@ Here are a few frameworks to get your price right:
 - [The Product-Market Fit Game](https://posthog.com/founders/product-market-fit-game)
 - https://wizard-ventures.notion.site/marketer-resources-list
 
+Directory of tools aggregated in one site:
+https://designengineer.tools/
+
 <br/><br/><br/>
 
 ## 👨‍💻 About
